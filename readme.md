@@ -2,17 +2,6 @@
 ImgPos is a jquery plugin that lets you load/view a portion of image in an img tag like a background
 image property were you can view a portion of an image.Now with this plugin you can do this in an img tag too, with very little js or using the data attribute form you dont even have to write a single line of js.
 ###<a href="https://riazxrazor.github.io/imgpos/">Demo</a>
-```HTML
-            <ul class="razor-slider">
-                <li><img src="images/1.jpg" alt="1.jpg"/></li>
-                <li><img width="200" height="200" src="images/2.jpg" alt="2.jpg"/></li>
-                <li><img src="images/3.jpg" alt="3.jpg"/></li>
-                <li><img src="images/4.jpg" alt="4.jpg"/></li>
-                <li><img src="images/5.jpg" alt="5.jpg"/></li>
-                <li><img src="images/5.jpg" alt="5.jpg"/></li>
-            </ul>
-```
-include jQuery, the razor.slider.js or razor.slider.min.js file and the razor.slider.css or razor.slider.min.css file in the footer of your page and header of your page respectively, of course, call the function:
 
 ```HTML 
 
