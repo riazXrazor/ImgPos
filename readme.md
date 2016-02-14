@@ -16,7 +16,7 @@ image property were you can view a portion of an image.Now with this plugin you 
 ```
 
 ### CONFIG OPTIONS.
-Those who like me love writting js and conifuring the a plugin an be in control no need to be gloomy it has a nice liitle config options and you and initiate from js too. 
+Those who like me love writting js and conifg a plugin an be in control no need to be gloomy, it has a nice liitle config options taht you can initiate from js too. 
 
 ```javascript
 
@@ -26,7 +26,7 @@ Those who like me love writting js and conifuring the a plugin an be in control 
                width:250
                });
                
-               // all congig options and default values
+               // all config options and default values
                 posx:null, // position x from where to start crop from left
                 posy:null, // position y from where to start crop from top
                 height:null, // height of the crop image 
